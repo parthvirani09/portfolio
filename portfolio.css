@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.me{
+    height: 250px;
+    border-radius: 7%;
+}
+
+nav{
+    color: rgb(0, 0, 0);
+    height: 50px;
+    text-align: end;
+    padding-right: 25px;
+    padding-top: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+nav span{
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 25px;
+    font-size: 22.5px;
+}
+
+nav span:hover{
+    color: purple;
+}
+
+.body{
+    background-image: url('wallpaperflare.com_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: chernobyl;
+    height: 100%;
+    background-attachment: fixed;
+}
+
+.body .parth{
+    color: rgb(0,0,0);
+    letter-spacing: 5px;
+    text-align: center;
+    margin: 150px; 
+    font-size: 110px;
+}/*255 0 128*/
+
+.About{
+    /* border-radius: 65px; */
+    margin-top: 54vh;
+    height: 300px;
+    background-color: rgba(146, 100, 146, 0.85);
+    
+
+}
+.About span{
+    
+    margin-left: 50px;
+    font-size: 35px;
+    
+}
+
+.About img{
+    margin-top: 30px;
+    margin-right: 100px;
+    float: right;
+    border: 5px solid black;
+}
+.About p{
+    font-size: 20px;
+    margin-left: 90px;
+    /* margin-right: px; */
+}
+.Skills {
+    margin-top: 0vh;
+    height: 135px;
+    background-color: rgba(242, 198, 242, 0.85);
+   
+}
+.Skills span{
+    
+    margin-left: 50px;
+    font-size: 35px;
+    
+}
+.Skills ul{
+    font-size: 20px;
+    margin-left: 90px;
+}
+.contact {
+    margin-top: 0vh;
+    height: 110px;
+    background-color: rgba(239, 225, 239, 0.85);
+    
+}
+.img img{
+    height: 50px;
+    padding-left: 50px;
+    
+}
